@@ -213,7 +213,7 @@ rich_presence_context = presence_main_menu
 game_mode = p1_quickplay
 skip_boot_menu = 0
 show_movies = 0
-is_demo_mode = 1
+is_demo_mode = 0
 downloadcontent_enabled = 1
 input_mode = record
 replay_suspend = 1
@@ -838,10 +838,6 @@ script guitar_startup
 	LoadPak 'pak/global_ad_tex/global_ad_tex.pak' heap = heap_massive_ads
 	if ($is_demo_mode = 1)
 		change enable_button_cheats = 0
-	endif
-	if ($enable_button_cheats = 1)
-		LaunchViewer
-		change select_shift = 1
 	endif
 	printf "Creating sound busses"
 	Master_SFX_Adding_Sound_Busses
