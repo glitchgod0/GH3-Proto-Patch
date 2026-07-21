@@ -29,6 +29,12 @@ GH3_Bonus_Songs = {
 			takethislife
 			thewayitends
 			thrufireandflames
+			FreeBird
+			0xe1f7a1ab
+			MonkeyWrench
+			0xa06e2670
+			YYZ
+			MasterOfPuppets
 		]
 		level = load_z_artdeco
 		defaultunlocked = 0
@@ -135,6 +141,24 @@ store_song_data = {
 	}
 	thrufireandflames = {
 		price = 500
+	}
+	FreeBird = {
+		price = 100
+	}
+	0xe1f7a1ab = {
+		price = 100
+	}
+	MonkeyWrench = {
+		price = 100
+	}
+	0xa06e2670 = {
+		price = 100
+	}
+	YYZ = {
+		price = 100
+	}
+	MasterOfPuppets = {
+		price = 100
 	}
 }
 Free_Guitars = [

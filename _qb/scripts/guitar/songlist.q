@@ -81,6 +81,7 @@ gh3_songlist = [
 	synctest
 	synctestplaytoaudio
 	synctestaudioandvisual
+	MasterOfPuppets
 	Tutorial_1B
 	Tutorial_1C
 	Tutorial_1D
@@ -1570,6 +1571,25 @@ gh3_songlist_props = {
 		rhythm_track = 0
 		band_playback_volume = 0.75
 		guitar_playback_volume = 1.25
+	}
+	MasterOfPuppets = {
+		checksum = MasterOfPuppets
+		name = 'MasterOfPuppets'
+		title = "Master of Puppets"
+		artist = "Metallica"
+		year = ", 1986"
+		artist_text = "by"
+		original_artist = 1
+		icon = 0xae973225
+		version = gh3
+		gem_offset = 0
+		input_offset = 0
+		singer = Male
+		keyboard = false
+		countoff = 'sticks_normal'
+		rhythm_track = 0
+		band_playback_volume = 0.75
+		guitar_playback_volume = 1.10
 	}
 	Tutorial_1B = {
 		checksum = Tutorial_1B
