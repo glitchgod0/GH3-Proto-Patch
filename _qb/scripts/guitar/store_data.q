@@ -239,6 +239,10 @@ Bonus_Guitars = [
 		id = Instrument_Mako
 		price = 2000
 	}
+	{
+		id = Instrument_GH3360
+		price = 2000
+	}
 ]
 Bonus_Guitar_Finishes = [
 	{
