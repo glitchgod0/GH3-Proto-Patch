@@ -15,7 +15,7 @@ This patch adds a few fixes and quality-of-life patches to the Guitar Hero III: 
 ## Notes
 This mod is incapatible with saves from the vanilla prototype. This is due to the venue additions.
 > [!CAUTION]
-> Avoid running the GH6 prototype on Xbox Live, This has a high risk of a console ban
+> Avoid running the GH3 prototype on Xbox Live, This has a high risk of a console ban
 
 
 ## Compiling
