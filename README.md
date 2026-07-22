@@ -13,7 +13,7 @@ This patch adds a few fixes and quality-of-life patches to the Guitar Hero III: 
 - Optional: Select 'Unlock All' in the debug menu.
 
 ## Notes
-This mod is incapatible with saves from the vanilla prototype. This is due to the venue additions.
+This mod is incapatible with saves from the vanilla prototype.
 > [!CAUTION]
 > Avoid running the GH3 prototype on Xbox Live, This has a high risk of a console ban
 
